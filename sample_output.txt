@@ -1,0 +1,15 @@
+STUDENT GRADE MANAGEMENT
+
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Exit
+
+Student Name : Ajay
+Python       : 85.00
+SQL          : 78.00
+Java         : 92.00
+
+Total        : 255.00
+Average      : 85.00
+Grade        : A
